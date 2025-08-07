@@ -38,8 +38,8 @@ For a detailed qualitative comparison, please see the `generated_clinical_notes.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Yethirajyam-Sai-Aditya-Maanas/LLM-Powered-Clinical-Note-Automation.git](https://github.com/Yethirajyam-Sai-Aditya-Maanas/LLM-Powered-Clinical-Note-Automation.git)
+    cd LLM-Powered-Clinical-Note-Automation
     ```
 
 2.  **Install dependencies:**
@@ -49,6 +49,6 @@ For a detailed qualitative comparison, please see the `generated_clinical_notes.
 
 3.  **Run the Jupyter Notebook:**
     ```bash
-    jupyter notebook "Your Notebook Name.ipynb"
+    jupyter notebook "llm-powered-clinical-note-automation.ipynb"
     ```
     **Note:** You will need a GPU and a Hugging Face token set as an environment variable to run this notebook successfully.
